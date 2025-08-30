@@ -26,4 +26,6 @@ You completed the Quiz! Final score: 7/10
 ```
 
 ## 🙃 Final note
-Not flashy, not AI-powered — but a small step in refreshing my Python muscles.
+Not flashy, not AI-powered — but that’s the point.  
+I’m practicing writing code fully by hand to refresh my Python muscles,  
+even though I do use AI tools in my daily work. This is about sharpening my own skills. 💪
